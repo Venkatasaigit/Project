@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 22,
+    "terminal.integrated.fontSize": 22,
+    "workbench.colorTheme": "Monokai Light",
+    "workbench.iconTheme": "vscode-icons"
+}
